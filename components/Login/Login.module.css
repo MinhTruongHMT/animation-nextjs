@@ -1,0 +1,5 @@
+.login{
+    transform: skewX(-1deg) skewY(0deg);
+    background-image:url('https://fleeped.com/themes/Fleeped/stylesheet/asset/background.png');
+    height: 100vh;
+}
